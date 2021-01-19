@@ -37,6 +37,7 @@ license = "Private"
 
 [tool.poetry.dependencies]
 python = "3.7.6"
+numpy = "^1.19.5"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
